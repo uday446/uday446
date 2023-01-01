@@ -4,7 +4,7 @@
 
 📖 I am a final year Computer Engineering student at Marwadi University, Rajkot, Gujrat.
 
-🕵🏻 I am looking forward to build my career as a computer vision engineer 
+🕵🏻 I am looking forward to build my career as a web developer 
 
 ✉️ Gmail : ujadeja96@gmail.com
 
